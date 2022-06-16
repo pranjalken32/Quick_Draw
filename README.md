@@ -1,2 +1,2 @@
-# Quick_Draw
-Quick_Draw
+# RPS GAME
+RPS Game
