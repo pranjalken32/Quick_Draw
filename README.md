@@ -3,7 +3,7 @@
 Problem Statement
 -----------------------------------
 We present a novel implementation of the infamous Rock-Paper-Scissors (RPS)game interaction with the computer. The framework is Tailored to be Computationally lightweight, as well as entertaining. The application is designed in a way that you can decide
-go for the best of 5 scores.
+go for the best of 5 scores.<br>
 The basis of any deep learning model is DATA. Any Machine Learning Enthusiast would agree that in ML the data is far more crucial than the algorithm itself. We need to collect images for the symbol Rock, Paper, Scissor. instead of downloading somebody else’s data and training on it, we made our dataset.
 We have used the concept of Transfer Learning
 <br>
