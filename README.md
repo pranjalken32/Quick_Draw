@@ -22,3 +22,6 @@ STEP8: Create the final application.<br>
 
 For the demo of the application , please visit the link<br>
 https://youtu.be/6AkCbZ10uAo
+
+For detailed Explanation and Result analysis please visit the link <br>
+https://docs.google.com/document/d/1X0wdsIHN-JlzUbETcDTlav-X8aikZ1GX/edit?usp=sharing&ouid=103227548741394801847&rtpof=true&sd=true
